@@ -1,6 +1,6 @@
 # Php TOOLS 8.4.8
 
-Docker Images | PHP Tools (php, node, compose, etc)
+PHP Tools (php, node, compose, etc) | Docker Images de type PHP à destination des dev (avec utilitaires pour "devcontainer")
 
 ## Préparation
 
